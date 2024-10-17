@@ -86,7 +86,7 @@
                 <div class="col-md-8 align-self-center">
                     <p class="copyright-text">
                         &copy; Copyright <span id="date"></span> <a href="#"> Dorrela Service Pvt.ltd </a> All Rights
-                        Reserved | Website Design & Developed by VK Group
+                        Reserved | Website Design & Developed by Siri Group
                     </p>
                 </div>
                 <div class="col-md-4 align-self-center">
